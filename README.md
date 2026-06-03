@@ -1,6 +1,10 @@
 # 🌟 OnlineSpec: Speculative Decoding Meets Online Learning 🌟
 
+<div align="center">
+
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2603.12617-orange)](https://arxiv.org/abs/2603.12617)
+
+</div>
 
 ## 📖 What is OnlineSpec?
 
