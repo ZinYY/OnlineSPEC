@@ -271,12 +271,12 @@ This project builds upon excellent open-source work:
 If you find our work useful for your research, please star our project and cite our work.
 
 ```bibtex
-@article{arxiv'26:onspec,
-  title   = {When Drafts Evolve: Speculative Decoding Meets Online Learning},
-  author  = {Yu-Yang Qian and Hao-Cong Wu and Yichao Fu and Hao Zhang and Peng Zhao},
-  journal = {ArXiv preprint},
-  volume  = {arXiv:2603.12617},
-  year    = {2026}
+@article{ICML'26:onlinespec,
+  title     = {When Drafts Evolve: Speculative Decoding Meets Online Learning},
+  author    = {Yu-Yang Qian and Hao-Cong Wu and Yichao Fu and Hao Zhang and Peng Zhao},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  pages     = {to appear},
+  year      = {2026}
 }
 ```
 
