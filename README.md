@@ -2,7 +2,7 @@
   <img src="asset/imgs/OnlineSPEC_Logo.jpg" width="60%" alt="OnlineSPEC Logo" />
 </p>
 
-# OnlineSpec: Speculative Decoding Meets Online Learning 🚀
+# OnlineSPEC: When Speculative Decoding Meets Online Learning 🚀
 
 <div align="center">
 
@@ -14,17 +14,17 @@ This is the official implementation of the paper [When Drafts Evolve: Speculativ
 
 In this repo, we provide a unified framework that integrates speculative decoding with online learning, with three instantiations.
 
-## 📖 What is OnlineSpec?
+## 📖 What is *OnlineSPEC*?
 
 <div align="center">
 
 <img src="asset/imgs/framework.png" alt="OnlineSPEC Framework" width="80%" />
 
-A 3D-visualization of our *OnlineSPEC* framework
+A 3D-visualization of our ***OnlineSPEC*** framework
 
 </div>
 
-**OnlineSpec** is a unified framework that integrates speculative decoding with online learning to achieve enhanced performance in large language model inference and adaptation.
+***OnlineSPEC*** is a unified framework that integrates speculative decoding with online learning to achieve enhanced performance in large language model inference and adaptation.
 
 This repository contains implementations of three key approaches:
 - **Ens-EAGLE/Ens-EAGLE-3**: Online ensemble methods for EAGLE and EAGLE-3
@@ -51,7 +51,7 @@ This repository is organized as a multi-project workspace with shared common mod
 
 ## 📝 Proposed Methods
 
-This section introduces the key methodological contributions of OnlineSpec, which enhance the performance of speculative decoding through online learning techniques.
+This section introduces the key methodological contributions of *OnlineSPEC*, which enhance the performance of speculative decoding through online learning techniques.
 
 ### 🎯 Ens-EAGLE/Ens-EAGLE-3
 
