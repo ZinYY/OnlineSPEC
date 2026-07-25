@@ -1,10 +1,18 @@
-# 🌟 OnlineSpec: Speculative Decoding Meets Online Learning 🌟
+<p align="center">
+  <img src="asset/imgs/OnlineSPEC_Logo.jpg" width="60%" alt="OnlineSPEC Logo" />
+</p>
+
+# OnlineSpec: Speculative Decoding Meets Online Learning 🚀
 
 <div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2603.12617-orange)](https://arxiv.org/abs/2603.12617)
 
 </div>
+
+This is the official implementation of the paper [When Drafts Evolve: Speculative Decoding Meets Online Learning](https://arxiv.org/abs/2603.12617) (ICML'26), where we introduce a unified framework that formulates speculative decoding as an online learning problem, continuously evolving the draft model using feedback signals obtained during the verification stage, and establishes a theoretical connection between the algorithm's regret bound and the speedup ratio of speculative decoding. 
+
+In this repo, we provide a unified framework that integrates speculative decoding with online learning, with three instantiations.
 
 ## 📖 What is OnlineSpec?
 
