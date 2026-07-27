@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/imgs/OnlineSPEC_Logo.jpg" width="60%" alt="OnlineSPEC Logo" />
+  <img src="asset/imgs/OnlineSPEC_Logo_new.jpg" width="60%" alt="OnlineSPEC Logo" />
 </p>
 
 # OnlineSPEC: When Speculative Decoding Meets Online Learning 🚀
